@@ -1,0 +1,4002 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ARTE 1">
+    <display-name lang="pt">ARTE 1</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL">
+    <display-name lang="pt">DISCOVERY CHANNEL</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Civilization">
+    <display-name lang="pt">Discovery Civilization</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY KIDS">
+    <display-name lang="pt">DISCOVERY KIDS</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DISCOVERY HOME e HEALTH">
+    <display-name lang="pt"> DISCOVERY HOME e HEALTH</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ID">
+    <display-name lang="pt">ID</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="E!">
+    <display-name lang="pt">E!</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX LIFE">
+    <display-name lang="pt">FOX LIFE</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GLOBO SP">
+    <display-name lang="pt">GLOBO SP</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20200524002200 -0300" stop="20200524015200 -0300" channel="A&amp;E">
+    <title lang="pt">O Manual De Um Assassino</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524015200 -0300" stop="20200524033000 -0300" channel="A&amp;E">
+    <title lang="pt">A História Que Nunca Foi Contada</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524033000 -0300" stop="20200524042000 -0300" channel="A&amp;E">
+    <title lang="pt">Jovens Condenados: Perpétua Ou Condicional?</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524042000 -0300" stop="20200524051000 -0300" channel="A&amp;E">
+    <title lang="pt">Segurança Máxima</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524051000 -0300" stop="20200524060000 -0300" channel="A&amp;E">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524060000 -0300" stop="20200524065000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524065000 -0300" stop="20200524074000 -0300" channel="A&amp;E">
+    <title lang="pt">Dr. Pé</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524074000 -0300" stop="20200524083000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524083000 -0300" stop="20200524092000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524092000 -0300" stop="20200524101000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524101000 -0300" stop="20200524110000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524110000 -0300" stop="20200524115000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524115000 -0300" stop="20200524124000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524124000 -0300" stop="20200524133000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524133000 -0300" stop="20200524142000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524142000 -0300" stop="20200524151000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524151000 -0300" stop="20200524160000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524160000 -0300" stop="20200524165000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524165000 -0300" stop="20200524174000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524174000 -0300" stop="20200524190600 -0300" channel="A&amp;E">
+    <title lang="pt">Sem Lei</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524190600 -0300" stop="20200524210100 -0300" channel="A&amp;E">
+    <title lang="pt">Os Especialistas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524210100 -0300" stop="20200524224100 -0300" channel="A&amp;E">
+    <title lang="pt">Na Trilha do Assassino</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524224100 -0300" stop="20200525000700 -0300" channel="A&amp;E">
+    <title lang="pt">Sem Lei</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525000700 -0300" stop="20200525003200 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525003200 -0300" stop="20200525011700 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525011700 -0300" stop="20200525031500 -0300" channel="A&amp;E">
+    <title lang="pt">Os Especialistas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525031500 -0300" stop="20200525050000 -0300" channel="A&amp;E">
+    <title lang="pt">Na Trilha do Assassino</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525050000 -0300" stop="20200525060000 -0300" channel="A&amp;E">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525060000 -0300" stop="20200525065000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525065000 -0300" stop="20200525074000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Noturnas</title>
+    <sub-title lang="pt">Tampa</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525074000 -0300" stop="20200525083000 -0300" channel="A&amp;E">
+    <title lang="pt">Dr. Pé</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525083000 -0300" stop="20200525092000 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525092000 -0300" stop="20200525110500 -0300" channel="A&amp;E">
+    <title lang="pt">Na Trilha do Assassino</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525110500 -0300" stop="20200525115500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525115500 -0300" stop="20200525124000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525124000 -0300" stop="20200525133000 -0300" channel="A&amp;E">
+    <title lang="pt">Dr. Pé</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525133000 -0300" stop="20200525135500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525135500 -0300" stop="20200525142000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525142000 -0300" stop="20200525151500 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525151500 -0300" stop="20200525170000 -0300" channel="A&amp;E">
+    <title lang="pt">Na Trilha do Assassino</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525170000 -0300" stop="20200525174500 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525174500 -0300" stop="20200525181500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525181500 -0300" stop="20200525184500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525184500 -0300" stop="20200525202000 -0300" channel="A&amp;E">
+    <title lang="pt">Toro</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525202000 -0300" stop="20200525211000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Noturnas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525211000 -0300" stop="20200525220000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525220000 -0300" stop="20200525225000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525225000 -0300" stop="20200526005500 -0300" channel="A&amp;E">
+    <title lang="pt">Alien</title>
+    <sub-title lang="pt">O Oitavo Passageiro</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524000000 -0300" stop="20200524010000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524010000 -0300" stop="20200524020000 -0300" channel="ARTE 1">
+    <title lang="pt">Bio Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524020000 -0300" stop="20200524030000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 In Concert</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524030000 -0300" stop="20200524040000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Visual</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524040000 -0300" stop="20200524061500 -0300" channel="ARTE 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524061500 -0300" stop="20200524064500 -0300" channel="ARTE 1">
+    <title lang="pt">Dois Pontos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524064500 -0300" stop="20200524083000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Nacional</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524083000 -0300" stop="20200524090000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524090000 -0300" stop="20200524103000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Documenta</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524103000 -0300" stop="20200524103700 -0300" channel="ARTE 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524103700 -0300" stop="20200524104500 -0300" channel="ARTE 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524104500 -0300" stop="20200524111500 -0300" channel="ARTE 1">
+    <title lang="pt">Magazine Arte 1 com The New York Times</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524111500 -0300" stop="20200524133000 -0300" channel="ARTE 1">
+    <title lang="pt">Cine Clube Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524133000 -0300" stop="20200524143000 -0300" channel="ARTE 1">
+    <title lang="pt">Tecarte</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524143000 -0300" stop="20200524150000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524150000 -0300" stop="20200524153000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524153000 -0300" stop="20200524160000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524160000 -0300" stop="20200524163000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524163000 -0300" stop="20200524173000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Apresenta</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524173000 -0300" stop="20200524180000 -0300" channel="ARTE 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524180000 -0300" stop="20200524183000 -0300" channel="ARTE 1">
+    <title lang="pt">Live Arthur Nestrovski</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524183000 -0300" stop="20200524190000 -0300" channel="ARTE 1">
+    <title lang="pt">São Paulo Meu Humor</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524190000 -0300" stop="20200524193000 -0300" channel="ARTE 1">
+    <title lang="pt">O Som e o Silêncio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524193000 -0300" stop="20200524200000 -0300" channel="ARTE 1">
+    <title lang="pt">Um Artista</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524200000 -0300" stop="20200524203000 -0300" channel="ARTE 1">
+    <title lang="pt">O Tempo e a Música</title>
+    <sub-title lang="pt">Depois do Fim da Canção</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524203000 -0300" stop="20200524213000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Visual</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524213000 -0300" stop="20200524220000 -0300" channel="ARTE 1">
+    <title lang="pt">Dois Pontos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524220000 -0300" stop="20200524230000 -0300" channel="ARTE 1">
+    <title lang="pt">Bio Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524230000 -0300" stop="20200525000000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Em Série</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525000000 -0300" stop="20200525010000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Em Série</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525010000 -0300" stop="20200525013000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 em Movimento</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525013000 -0300" stop="20200525013700 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Na Mira</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525013700 -0300" stop="20200525014300 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Na Mira</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525014300 -0300" stop="20200525015100 -0300" channel="ARTE 1">
+    <title lang="pt">Lista Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525015100 -0300" stop="20200525020000 -0300" channel="ARTE 1">
+    <title lang="pt">Lista Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525020000 -0300" stop="20200525034500 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Nacional</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525034500 -0300" stop="20200525044500 -0300" channel="ARTE 1">
+    <title lang="pt">Tecarte</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525044500 -0300" stop="20200525045200 -0300" channel="ARTE 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525045200 -0300" stop="20200525050000 -0300" channel="ARTE 1">
+    <title lang="pt">Curta Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525050000 -0300" stop="20200525060000 -0300" channel="ARTE 1">
+    <title lang="pt">Bio Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525060000 -0300" stop="20200525070000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Visual</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525070000 -0300" stop="20200525073000 -0300" channel="ARTE 1">
+    <title lang="pt">Dois Pontos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525073000 -0300" stop="20200525093000 -0300" channel="ARTE 1">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525093000 -0300" stop="20200525103000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525103000 -0300" stop="20200525111500 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 na Dança</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525111500 -0300" stop="20200525114500 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 na Dança</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525114500 -0300" stop="20200525120000 -0300" channel="ARTE 1">
+    <title lang="pt">Trajetória</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525120000 -0300" stop="20200525130000 -0300" channel="ARTE 1">
+    <title lang="pt">Bio Arte 1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525130000 -0300" stop="20200525140000 -0300" channel="ARTE 1">
+    <title lang="pt">Canto dos Exilados</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525140000 -0300" stop="20200525143000 -0300" channel="ARTE 1">
+    <title lang="pt">O Som e o Silêncio</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525143000 -0300" stop="20200525150000 -0300" channel="ARTE 1">
+    <title lang="pt">Minidocs</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525150000 -0300" stop="20200525170000 -0300" channel="ARTE 1">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525170000 -0300" stop="20200525180000 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 em Série</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525180000 -0300" stop="20200525190000 -0300" channel="ARTE 1">
+    <title lang="pt">Canto dos Exilados</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525190000 -0300" stop="20200525204500 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 Nacional</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525204500 -0300" stop="20200525210000 -0300" channel="ARTE 1">
+    <title lang="pt">Trajetória</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525210000 -0300" stop="20200525213000 -0300" channel="ARTE 1">
+    <title lang="pt">A Arte do Cinema</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525213000 -0300" stop="20200525231500 -0300" channel="ARTE 1">
+    <title lang="pt">Arte 1 In Concert</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525231500 -0300" stop="20200526011500 -0300" channel="ARTE 1">
+    <title lang="pt">Cine Clube Arte 1 Clássicos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524003300 -0300" stop="20200524012100 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">A Fortuna Perdida de Pablo Escobar</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524012100 -0300" stop="20200524020500 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Planeta Terra</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524020500 -0300" stop="20200524030000 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Sete Mundos, Um Planeta</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524030000 -0300" stop="20200524034400 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">O Fugitivo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524034400 -0300" stop="20200524043200 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">O Fugitivo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524043200 -0300" stop="20200524051600 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524051600 -0300" stop="20200524060300 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524060300 -0300" stop="20200524063100 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Aeroporto Miami</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524063100 -0300" stop="20200524065800 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Aeroporto Miami</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524065800 -0300" stop="20200524072200 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524072200 -0300" stop="20200524074500 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Aeroporto: Área Restrita</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524074500 -0300" stop="20200524083200 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Rumo ao Desconhecido</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524083200 -0300" stop="20200524091900 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Rumo ao Desconhecido</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524091900 -0300" stop="20200524100600 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Rumo ao Desconhecido</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524100600 -0300" stop="20200524105400 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Planeta Desconhecido com Steve Backshall</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524105400 -0300" stop="20200524114200 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Construções no Alasca</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524114200 -0300" stop="20200524123000 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Construções no Alasca</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524123000 -0300" stop="20200524131900 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Construções Remotas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524131900 -0300" stop="20200524140800 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Construções Remotas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524140800 -0300" stop="20200524145600 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">A Grande Família do Alasca</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524145600 -0300" stop="20200524154400 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Largados e Pelados</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524154400 -0300" stop="20200524163200 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524163200 -0300" stop="20200524172000 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Ed Stafford: Contra Todos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524172000 -0300" stop="20200524180400 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524180400 -0300" stop="20200524185200 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Menu Selvagem</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524185200 -0300" stop="20200524194100 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Largados e Pelados</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524194100 -0300" stop="20200524203000 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Largados e Pelados</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524203000 -0300" stop="20200524211400 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Largados e Pelados</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524211400 -0300" stop="20200524220200 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Largados e Pelados</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524220200 -0300" stop="20200524224600 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Largados e Pelados</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524224600 -0300" stop="20200524234200 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Sete Mundos, Um Planeta</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524234200 -0300" stop="20200525003000 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">O Fugitivo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525003000 -0300" stop="20200525011700 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">À Prova de Tudo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525011700 -0300" stop="20200525020100 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Construções Remotas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525020100 -0300" stop="20200525024900 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">A Grande Família do Alasca</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525024900 -0300" stop="20200525033800 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Largados e Pelados</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525033800 -0300" stop="20200525042700 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525042700 -0300" stop="20200525051500 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Ed Stafford: Contra Todos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525051500 -0300" stop="20200525060300 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Desafio em Dose Dupla: Brasil</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525060300 -0300" stop="20200525065800 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">O Caçador de Múmias</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525065800 -0300" stop="20200525074500 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Movidos a Diesel</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525074500 -0300" stop="20200525083200 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Rumo ao Desconhecido</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525083200 -0300" stop="20200525091900 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Ilha dos Crocodilos: Caçadores do Tesouro Perdido</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525091900 -0300" stop="20200525100600 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">A Maldição do Ouro Perdido</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525100600 -0300" stop="20200525105400 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Ilha das Cobras: Caçadores do Tesouro Perdido</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525105400 -0300" stop="20200525114200 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Sete Mundos, Um Planeta</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525114200 -0300" stop="20200525123000 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Febre do Ouro</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525123000 -0300" stop="20200525131900 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Febre do Ouro</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525131900 -0300" stop="20200525140800 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Vida Remota</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525140800 -0300" stop="20200525145600 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Vida Remota</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525145600 -0300" stop="20200525154400 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Vida Remota</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525154400 -0300" stop="20200525163200 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525163200 -0300" stop="20200525172000 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525172000 -0300" stop="20200525180400 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Largados e Pelados: A Tribo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525180400 -0300" stop="20200525185200 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525185200 -0300" stop="20200525194100 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Desafio em Dose Dupla</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525194100 -0300" stop="20200525202600 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Construções Remotas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525202600 -0300" stop="20200525211000 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Construções Remotas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525211000 -0300" stop="20200525215500 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Construções Remotas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525215500 -0300" stop="20200525224200 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Sobreviventes do Gelo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525224200 -0300" stop="20200525233000 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Alasca: A Última Fronteira</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525233000 -0300" stop="20200526001800 -0300" channel="DISCOVERY CHANNEL">
+    <title lang="pt">Isolados no Alasca</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524000300 -0300" stop="20200524001000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524001000 -0300" stop="20200524001700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524001700 -0300" stop="20200524002400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524002400 -0300" stop="20200524003100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524003100 -0300" stop="20200524004200 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Doki</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524004200 -0300" stop="20200524005300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Monchhichi</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524005300 -0300" stop="20200524010400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Monchhichi</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524010400 -0300" stop="20200524011600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Meu Amigãozão</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524011600 -0300" stop="20200524012800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Meu Amigãozão</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524012800 -0300" stop="20200524014900 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524014900 -0300" stop="20200524020100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Miss Moon</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524020100 -0300" stop="20200524021300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Miss Moon</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524021300 -0300" stop="20200524023500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">My Little Pony: A Amizade é Mágica</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524023500 -0300" stop="20200524025700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">O Zoo da Zu</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524025700 -0300" stop="20200524030900 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Super Wings</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524030900 -0300" stop="20200524032100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Super Wings</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524032100 -0300" stop="20200524034300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Backyardigans</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524034300 -0300" stop="20200524035400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524035400 -0300" stop="20200524040500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524040500 -0300" stop="20200524041700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Natugato</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524041700 -0300" stop="20200524042900 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Natugato</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524042900 -0300" stop="20200524044100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524044100 -0300" stop="20200524045300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524045300 -0300" stop="20200524051600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524051600 -0300" stop="20200524053800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Frankie e os Zhu Zhu Pets</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524053800 -0300" stop="20200524060000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Miss Moon</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524060000 -0300" stop="20200524065700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">George, O Curioso e o Dia Das Bruxas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524065700 -0300" stop="20200524070800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524070800 -0300" stop="20200524072000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524072000 -0300" stop="20200524073500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524073500 -0300" stop="20200524075700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Agente Binky Ao Resgate!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524075700 -0300" stop="20200524082200 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Agente Binky Ao Resgate!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524082200 -0300" stop="20200524083400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524083400 -0300" stop="20200524084800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524084800 -0300" stop="20200524090000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524090000 -0300" stop="20200524102300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Madagascar</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524102300 -0300" stop="20200524104800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524104800 -0300" stop="20200524110300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa: As Botas De Ouro</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524110300 -0300" stop="20200524112600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524112600 -0300" stop="20200524113700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524113700 -0300" stop="20200524114800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524114800 -0300" stop="20200524120100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524120100 -0300" stop="20200524121200 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524121200 -0300" stop="20200524122400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524122400 -0300" stop="20200524123600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524123600 -0300" stop="20200524125000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524125000 -0300" stop="20200524130200 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524130200 -0300" stop="20200524132400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Agente Binky Ao Resgate!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524132400 -0300" stop="20200524134600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Agente Binky Ao Resgate!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524134600 -0300" stop="20200524141100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524141100 -0300" stop="20200524143400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524143400 -0300" stop="20200524144900 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa ao Redor do Mundo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524144900 -0300" stop="20200524151100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Polly Pocket</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524151100 -0300" stop="20200524153600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Polly Pocket</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524153600 -0300" stop="20200524155800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Polly Pocket</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524155800 -0300" stop="20200524160900 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">As Aventuras Dos Boonie Bears</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524160900 -0300" stop="20200524162000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">As Aventuras Dos Boonie Bears</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524162000 -0300" stop="20200524163300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">As Aventuras Dos Boonie Bears</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524163300 -0300" stop="20200524180000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Boonie Bears: Inverno Mágico</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524180000 -0300" stop="20200524181500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Super Monstros Em Ação</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524181500 -0300" stop="20200524182600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Super Monstros Em Ação</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524182600 -0300" stop="20200524183700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Super Monstros Em Ação</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524183700 -0300" stop="20200524184800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Super Monstros Em Ação</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524184800 -0300" stop="20200524185300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524185300 -0300" stop="20200524185800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524185800 -0300" stop="20200524190300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524190300 -0300" stop="20200524192700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524192700 -0300" stop="20200524195000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524195000 -0300" stop="20200524201600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524201600 -0300" stop="20200524203900 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524203900 -0300" stop="20200524210500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524210500 -0300" stop="20200524222000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">A Abelhinha Maya: O Filme</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524222000 -0300" stop="20200524224600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Frankie e os Zhu Zhu Pets</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524224600 -0300" stop="20200524225700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Doki</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524225700 -0300" stop="20200524230800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Doki</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524230800 -0300" stop="20200524231300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524231300 -0300" stop="20200524231800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524231800 -0300" stop="20200524232500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524232500 -0300" stop="20200524233000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524233000 -0300" stop="20200524234400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Transformers Rescue Academy</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524234400 -0300" stop="20200524235600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Miss Moon</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524235600 -0300" stop="20200525000300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mr. Magoo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525000300 -0300" stop="20200525001000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525001000 -0300" stop="20200525001700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525001700 -0300" stop="20200525002400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mundo Ripilica: As Aventuras de Lilica, A Coala</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525002400 -0300" stop="20200525003100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525003100 -0300" stop="20200525004200 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Doki</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525004200 -0300" stop="20200525005300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Monchhichi</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525005300 -0300" stop="20200525010400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Monchhichi</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525010400 -0300" stop="20200525011600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Meu Amigãozão</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525011600 -0300" stop="20200525012800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Meu Amigãozão</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525012800 -0300" stop="20200525014900 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525014900 -0300" stop="20200525020100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Miss Moon</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525020100 -0300" stop="20200525021300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Miss Moon</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525021300 -0300" stop="20200525023500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">My Little Pony: A Amizade é Mágica</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525023500 -0300" stop="20200525025700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">O Zoo da Zu</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525025700 -0300" stop="20200525030900 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Super Wings</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525030900 -0300" stop="20200525032100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Super Wings</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525032100 -0300" stop="20200525034300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Backyardigans</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525034300 -0300" stop="20200525035400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525035400 -0300" stop="20200525040500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Ollie e Moon Pelo Mundo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525040500 -0300" stop="20200525041700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Natugato</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525041700 -0300" stop="20200525042900 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Natugato</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525042900 -0300" stop="20200525044100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525044100 -0300" stop="20200525045300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525045300 -0300" stop="20200525051600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525051600 -0300" stop="20200525053800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Frankie e os Zhu Zhu Pets</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525053800 -0300" stop="20200525060000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Miss Moon</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525060000 -0300" stop="20200525062300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525062300 -0300" stop="20200525064500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Polly Pocket</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525064500 -0300" stop="20200525065600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Charlie, O Entrevistador de Coisas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525065600 -0300" stop="20200525071000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Charlie, O Entrevistador de Coisas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525071000 -0300" stop="20200525072200 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525072200 -0300" stop="20200525072700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525072700 -0300" stop="20200525073200 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525073200 -0300" stop="20200525075800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525075800 -0300" stop="20200525092600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Meu Malvado Favorito 2</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525092600 -0300" stop="20200525095000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Agente Binky Ao Resgate!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525095000 -0300" stop="20200525100200 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525100200 -0300" stop="20200525101400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525101400 -0300" stop="20200525102600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525102600 -0300" stop="20200525105200 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525105200 -0300" stop="20200525111500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525111500 -0300" stop="20200525114000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525114000 -0300" stop="20200525114500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525114500 -0300" stop="20200525115000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525115000 -0300" stop="20200525115500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525115500 -0300" stop="20200525120000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525120000 -0300" stop="20200525120500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525120500 -0300" stop="20200525122700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Polly Pocket</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525122700 -0300" stop="20200525125200 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Polly Pocket</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525125200 -0300" stop="20200525131400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">O Clube das Winx</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525131400 -0300" stop="20200525132500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Sadie Sparks</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525132500 -0300" stop="20200525133600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Sadie Sparks</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525133600 -0300" stop="20200525134900 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Sadie Sparks</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525134900 -0300" stop="20200525140000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Sadie Sparks</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525140000 -0300" stop="20200525141100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">As Aventuras Dos Boonie Bears</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525141100 -0300" stop="20200525142200 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">As Aventuras Dos Boonie Bears</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525142200 -0300" stop="20200525143300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">As Aventuras Dos Boonie Bears</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525143300 -0300" stop="20200525145700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">As Aventuras de Rocky e Bullwinkle</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525145700 -0300" stop="20200525150400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mr. Magoo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525150400 -0300" stop="20200525151100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mr. Magoo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525151100 -0300" stop="20200525151800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mr. Magoo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525151800 -0300" stop="20200525152900 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Charlie, O Entrevistador de Coisas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525152900 -0300" stop="20200525154000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Charlie, O Entrevistador de Coisas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525154000 -0300" stop="20200525154500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525154500 -0300" stop="20200525155000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525155000 -0300" stop="20200525155700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525155700 -0300" stop="20200525160200 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525160200 -0300" stop="20200525162500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525162500 -0300" stop="20200525164900 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525164900 -0300" stop="20200525170100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Super Wings</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525170100 -0300" stop="20200525172300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Agente Binky Ao Resgate!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525172300 -0300" stop="20200525173000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">As Microaventuras de Tito e Muda</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525173000 -0300" stop="20200525173700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">As Microaventuras de Tito e Muda</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525173700 -0300" stop="20200525174800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Charlie, O Entrevistador de Coisas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525174800 -0300" stop="20200525180200 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525180200 -0300" stop="20200525181400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525181400 -0300" stop="20200525183600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Polly Pocket</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525183600 -0300" stop="20200525190000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525190000 -0300" stop="20200525190500 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525190500 -0300" stop="20200525191000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525191000 -0300" stop="20200525191800 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525191800 -0300" stop="20200525192300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Mini Beat Power Rockers</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525192300 -0300" stop="20200525193400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525193400 -0300" stop="20200525194700 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">O Show da Luna!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525194700 -0300" stop="20200525201000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525201000 -0300" stop="20200525203300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525203300 -0300" stop="20200525205600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525205600 -0300" stop="20200525212200 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Peppa</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525212200 -0300" stop="20200525225000 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Meu Malvado Favorito 2</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525225000 -0300" stop="20200525230300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">44 Gatos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525230300 -0300" stop="20200525232400 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Lelê e Linguiça</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525232400 -0300" stop="20200525233600 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Miss Moon</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525233600 -0300" stop="20200525235100 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Miss Moon</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525235100 -0300" stop="20200526000300 -0300" channel="DISCOVERY KIDS">
+    <title lang="pt">Miss Moon</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524001700 -0300" stop="20200524004200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Casas Exuberantes</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524004200 -0300" stop="20200524010700 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Reforma dos Sonhos com Os Irmãos Ford</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524010700 -0300" stop="20200524015600 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Do Velho Ao Novo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524015600 -0300" stop="20200524024000 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524024000 -0300" stop="20200524033000 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Os Busbys + 5</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524033000 -0300" stop="20200524042000 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Os Busbys + 5</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524042000 -0300" stop="20200524060400 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Os Busbys + 5</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524060400 -0300" stop="20200524063000 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Boutique Das Noivas Plus Size</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524063000 -0300" stop="20200524065300 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Cake Boss</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524065300 -0300" stop="20200524071700 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Cake Boss</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524071700 -0300" stop="20200524080400 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Junior Masterchef EUA</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524080400 -0300" stop="20200524085200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Junior Masterchef EUA</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524085200 -0300" stop="20200524091600 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Fica, Vai Ter Duff!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524091600 -0300" stop="20200524094000 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Duff: Desafio da Madrugada</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524094000 -0300" stop="20200524102800 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">O Mestre Dos Bolos Em Hollywood</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524102800 -0300" stop="20200524105200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Vida No Paraíso: México</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524105200 -0300" stop="20200524111600 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Vida No Paraíso: México</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524111600 -0300" stop="20200524114000 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Vida No Paraíso: México</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524114000 -0300" stop="20200524120400 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Vida No Paraíso: México</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524120400 -0300" stop="20200524122800 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Vida No Paraíso: México</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524122800 -0300" stop="20200524125200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Vida No Paraíso: México</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524125200 -0300" stop="20200524131800 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524131800 -0300" stop="20200524134400 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524134400 -0300" stop="20200524141000 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524141000 -0300" stop="20200524143600 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524143600 -0300" stop="20200524150200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524150200 -0300" stop="20200524152800 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524152800 -0300" stop="20200524155400 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Vida No Paraíso: Bahamas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524155400 -0300" stop="20200524162000 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Vida No Paraíso: Bahamas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524162000 -0300" stop="20200524164600 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Vida No Paraíso: Caribe</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524164600 -0300" stop="20200524171200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Vida No Paraíso: Caribe</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524171200 -0300" stop="20200524173700 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Casas Exuberantes</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524173700 -0300" stop="20200524180200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Casas Exuberantes</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524180200 -0300" stop="20200524185200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Junior Masterchef EUA</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524185200 -0300" stop="20200524194200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Junior Masterchef EUA</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524194200 -0300" stop="20200524212200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Os Busbys + 5</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524212200 -0300" stop="20200524221000 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524221000 -0300" stop="20200524225800 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524225800 -0300" stop="20200524234600 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Dra. Emma: Uma Questão de Pele</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524234600 -0300" stop="20200525001100 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Vida No Paraíso: Bahamas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525001100 -0300" stop="20200525003600 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Vida No Paraíso: Bahamas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525003600 -0300" stop="20200525010100 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Vida No Paraíso: Bahamas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525010100 -0300" stop="20200525015000 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525015000 -0300" stop="20200525023800 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Irmãos à Obra</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525023800 -0300" stop="20200525032800 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Esquadrão da Moda</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525032800 -0300" stop="20200525042000 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Esquadrão da Moda</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525042000 -0300" stop="20200525051200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Esquadrão da Moda</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525051200 -0300" stop="20200525060400 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Esquadrão da Moda</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525060400 -0300" stop="20200525063000 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Boutique Das Noivas Plus Size</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525063000 -0300" stop="20200525071700 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">O Vestido Ideal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525071700 -0300" stop="20200525085700 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Bake Off Brasil</title>
+    <sub-title lang="pt">A Cereja do Bolo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525085700 -0300" stop="20200525094500 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">O Vestido Ideal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525094500 -0300" stop="20200525100900 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">O Vestido Ideal: Reino Unido</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525100900 -0300" stop="20200525103300 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">O Vestido Ideal: Reino Unido</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525103300 -0300" stop="20200525112100 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Confeiteiros Vs. Amadores</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525112100 -0300" stop="20200525120900 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Confeiteiros Vs. Amadores</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525120900 -0300" stop="20200525125700 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Confeiteiros Vs. Amadores</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525125700 -0300" stop="20200525134600 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Confeiteiros Vs. Amadores</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525134600 -0300" stop="20200525143400 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Confeiteiros Vs. Amadores</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525143400 -0300" stop="20200525152200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Confeiteiros Vs. Amadores</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525152200 -0300" stop="20200525161100 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Irmãos à Obra</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525161100 -0300" stop="20200525170300 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Irmãos à Obra</title>
+    <sub-title lang="pt">Compra e Venda</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525170300 -0300" stop="20200525185200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Fábrica De Casamentos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525185200 -0300" stop="20200525194200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Irmãos à Obra</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525194200 -0300" stop="20200525203200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525203200 -0300" stop="20200525212200 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525212200 -0300" stop="20200525221000 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525221000 -0300" stop="20200526000600 -0300" channel="DISCOVERY HOME e HEALTH">
+    <title lang="pt">Fábrica De Casamentos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524002800 -0300" stop="20200524011700 -0300" channel="ID">
+    <title lang="pt">Frios e Calculistas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524011700 -0300" stop="20200524020500 -0300" channel="ID">
+    <title lang="pt">Frios e Calculistas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524020500 -0300" stop="20200524025400 -0300" channel="ID">
+    <title lang="pt">O Perfeito Suspeito</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524025400 -0300" stop="20200524034300 -0300" channel="ID">
+    <title lang="pt">Um Monstro Como Nunca Se Viu</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524034300 -0300" stop="20200524043200 -0300" channel="ID">
+    <title lang="pt">Um Monstro Como Nunca Se Viu</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524043200 -0300" stop="20200524052100 -0300" channel="ID">
+    <title lang="pt">People Magazine: Por Dentro das Seitas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524052100 -0300" stop="20200524054600 -0300" channel="ID">
+    <title lang="pt">Desvendando Mentiras</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524054600 -0300" stop="20200524063600 -0300" channel="ID">
+    <title lang="pt">Cultos Mortais</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524063600 -0300" stop="20200524072600 -0300" channel="ID">
+    <title lang="pt">Diabólicos</title>
+    <sub-title lang="pt">A Face Oculta do Amor</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524072600 -0300" stop="20200524081300 -0300" channel="ID">
+    <title lang="pt">Diabólicos</title>
+    <sub-title lang="pt">A Face Oculta do Amor</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524081300 -0300" stop="20200524090000 -0300" channel="ID">
+    <title lang="pt">Assassinatos em Família</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524090000 -0300" stop="20200524094700 -0300" channel="ID">
+    <title lang="pt">Falsidade.com</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524094700 -0300" stop="20200524103400 -0300" channel="ID">
+    <title lang="pt">O Perfeito Suspeito</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524103400 -0300" stop="20200524112300 -0300" channel="ID">
+    <title lang="pt">Desmascarados</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524112300 -0300" stop="20200524121200 -0300" channel="ID">
+    <title lang="pt">Desmascarados</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524121200 -0300" stop="20200524130100 -0300" channel="ID">
+    <title lang="pt">Desmascarados</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524130100 -0300" stop="20200524135000 -0300" channel="ID">
+    <title lang="pt">Desvendando Crimes</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524135000 -0300" stop="20200524144000 -0300" channel="ID">
+    <title lang="pt">Até que se Prove o Contrário</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524144000 -0300" stop="20200524150500 -0300" channel="ID">
+    <title lang="pt">Desvendando Mentiras</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524150500 -0300" stop="20200524155100 -0300" channel="ID">
+    <title lang="pt">Reencontro Fatal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524155100 -0300" stop="20200524163700 -0300" channel="ID">
+    <title lang="pt">Lobo Em Pele De Cordeiro</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524163700 -0300" stop="20200524172300 -0300" channel="ID">
+    <title lang="pt">Emboscada</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524172300 -0300" stop="20200524181000 -0300" channel="ID">
+    <title lang="pt">Reencontro Fatal</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524181000 -0300" stop="20200524185400 -0300" channel="ID">
+    <title lang="pt">Verdadeiras Mentiras</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524185400 -0300" stop="20200524194200 -0300" channel="ID">
+    <title lang="pt">Autópsia de Famosos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524194200 -0300" stop="20200524203000 -0300" channel="ID">
+    <title lang="pt">Autópsia de Famosos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524203000 -0300" stop="20200524211800 -0300" channel="ID">
+    <title lang="pt">Análise de um Crime</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524211800 -0300" stop="20200524220500 -0300" channel="ID">
+    <title lang="pt">Bodycam: Registros Criminosos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524220500 -0300" stop="20200524225200 -0300" channel="ID">
+    <title lang="pt">Câmera Crime</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524225200 -0300" stop="20200524231600 -0300" channel="ID">
+    <title lang="pt">Anatomia do Crime</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524231600 -0300" stop="20200524233900 -0300" channel="ID">
+    <title lang="pt">Adotados</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524233900 -0300" stop="20200525002800 -0300" channel="ID">
+    <title lang="pt">Desaparecidos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525002800 -0300" stop="20200525011700 -0300" channel="ID">
+    <title lang="pt">Verdadeiras Mentiras</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525011700 -0300" stop="20200525020500 -0300" channel="ID">
+    <title lang="pt">Autópsia de Famosos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525020500 -0300" stop="20200525025400 -0300" channel="ID">
+    <title lang="pt">Autópsia de Famosos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525025400 -0300" stop="20200525034300 -0300" channel="ID">
+    <title lang="pt">Análise de um Crime</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525034300 -0300" stop="20200525043200 -0300" channel="ID">
+    <title lang="pt">Bodycam: Registros Criminosos</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525043200 -0300" stop="20200525052100 -0300" channel="ID">
+    <title lang="pt">Câmera Crime</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525052100 -0300" stop="20200525054600 -0300" channel="ID">
+    <title lang="pt">Desvendando Mentiras</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525054600 -0300" stop="20200525063600 -0300" channel="ID">
+    <title lang="pt">Mal de Família</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525063600 -0300" stop="20200525072600 -0300" channel="ID">
+    <title lang="pt">Emboscada</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525072600 -0300" stop="20200525081300 -0300" channel="ID">
+    <title lang="pt">Seu Pior Pesadelo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525081300 -0300" stop="20200525090000 -0300" channel="ID">
+    <title lang="pt">Diabólicos</title>
+    <sub-title lang="pt">A Face Oculta do Amor</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525090000 -0300" stop="20200525094700 -0300" channel="ID">
+    <title lang="pt">Diabólicos</title>
+    <sub-title lang="pt">A Face Oculta do Amor</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525094700 -0300" stop="20200525103400 -0300" channel="ID">
+    <title lang="pt">Verdadeiras Mentiras</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525103400 -0300" stop="20200525112300 -0300" channel="ID">
+    <title lang="pt">Um Monstro Como Nunca Se Viu</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525112300 -0300" stop="20200525121200 -0300" channel="ID">
+    <title lang="pt">Um Monstro Como Nunca Se Viu</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525121200 -0300" stop="20200525130100 -0300" channel="ID">
+    <title lang="pt">People Magazine: Por Dentro das Seitas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525130100 -0300" stop="20200525135000 -0300" channel="ID">
+    <title lang="pt">Frios e Calculistas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525135000 -0300" stop="20200525144000 -0300" channel="ID">
+    <title lang="pt">Frios e Calculistas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525144000 -0300" stop="20200525150500 -0300" channel="ID">
+    <title lang="pt">Desvendando Mentiras</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525150500 -0300" stop="20200525155100 -0300" channel="ID">
+    <title lang="pt">Assassinatos em Família</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525155100 -0300" stop="20200525163700 -0300" channel="ID">
+    <title lang="pt">Falsidade.com</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525163700 -0300" stop="20200525172300 -0300" channel="ID">
+    <title lang="pt">Emboscada</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525172300 -0300" stop="20200525181000 -0300" channel="ID">
+    <title lang="pt">Mal de Família</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525181000 -0300" stop="20200525185400 -0300" channel="ID">
+    <title lang="pt">Assassinos ao Redor</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525185400 -0300" stop="20200525194200 -0300" channel="ID">
+    <title lang="pt">O Interrogador</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525194200 -0300" stop="20200525203000 -0300" channel="ID">
+    <title lang="pt">Somente a Verdade com Sunny Hostin</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525203000 -0300" stop="20200525211800 -0300" channel="ID">
+    <title lang="pt">O Crime Quase Perfeito</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525211800 -0300" stop="20200525220500 -0300" channel="ID">
+    <title lang="pt">Crimes que Ficaram na História</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525220500 -0300" stop="20200525225200 -0300" channel="ID">
+    <title lang="pt">Crimes que Ficaram na História</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525225200 -0300" stop="20200525231600 -0300" channel="ID">
+    <title lang="pt">Anatomia do Crime</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525231600 -0300" stop="20200525233900 -0300" channel="ID">
+    <title lang="pt">Adotados</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525233900 -0300" stop="20200526002800 -0300" channel="ID">
+    <title lang="pt">Seu Pior Pesadelo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524001400 -0300" stop="20200524010200 -0300" channel="TLC">
+    <title lang="pt">Mama June: Vida Nova</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524010200 -0300" stop="20200524023800 -0300" channel="TLC">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524023800 -0300" stop="20200524041600 -0300" channel="TLC">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524041600 -0300" stop="20200524055400 -0300" channel="TLC">
+    <title lang="pt">4 Mulheres e 1 Marido</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524055400 -0300" stop="20200524064200 -0300" channel="TLC">
+    <title lang="pt">Ai, Ai, Ai do Sexo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524064200 -0300" stop="20200524073000 -0300" channel="TLC">
+    <title lang="pt">Ai, Ai, Ai do Sexo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524073000 -0300" stop="20200524081800 -0300" channel="TLC">
+    <title lang="pt">Ai, Ai, Ai do Sexo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524081800 -0300" stop="20200524090600 -0300" channel="TLC">
+    <title lang="pt">Emagreci, E Agora?</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524090600 -0300" stop="20200524095400 -0300" channel="TLC">
+    <title lang="pt">Emagreci, E Agora?</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524095400 -0300" stop="20200524104200 -0300" channel="TLC">
+    <title lang="pt">A Vida de Jazz</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524104200 -0300" stop="20200524113000 -0300" channel="TLC">
+    <title lang="pt">A Vida de Jazz</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524113000 -0300" stop="20200524121800 -0300" channel="TLC">
+    <title lang="pt">A Médium</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524121800 -0300" stop="20200524130600 -0300" channel="TLC">
+    <title lang="pt">A Médium</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524130600 -0300" stop="20200524135500 -0300" channel="TLC">
+    <title lang="pt">A Médium</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524135500 -0300" stop="20200524144400 -0300" channel="TLC">
+    <title lang="pt">A Médium</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524144400 -0300" stop="20200524153300 -0300" channel="TLC">
+    <title lang="pt">A Médium</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524153300 -0300" stop="20200524162200 -0300" channel="TLC">
+    <title lang="pt">A Médium</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524162200 -0300" stop="20200524180000 -0300" channel="TLC">
+    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524180000 -0300" stop="20200524182500 -0300" channel="TLC">
+    <title lang="pt">Cupom Mania</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524182500 -0300" stop="20200524185000 -0300" channel="TLC">
+    <title lang="pt">Cupom Mania</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524185000 -0300" stop="20200524191500 -0300" channel="TLC">
+    <title lang="pt">Cupom Mania</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524191500 -0300" stop="20200524194000 -0300" channel="TLC">
+    <title lang="pt">Cupom Mania</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524194000 -0300" stop="20200524200500 -0300" channel="TLC">
+    <title lang="pt">Cupom Mania</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524200500 -0300" stop="20200524203000 -0300" channel="TLC">
+    <title lang="pt">Cupom Mania</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524203000 -0300" stop="20200524205500 -0300" channel="TLC">
+    <title lang="pt">Muquiranas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524205500 -0300" stop="20200524212000 -0300" channel="TLC">
+    <title lang="pt">Muquiranas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524212000 -0300" stop="20200524214500 -0300" channel="TLC">
+    <title lang="pt">Muquiranas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524214500 -0300" stop="20200524221000 -0300" channel="TLC">
+    <title lang="pt">Muquiranas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524221000 -0300" stop="20200524223500 -0300" channel="TLC">
+    <title lang="pt">Muquiranas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524223500 -0300" stop="20200524230000 -0300" channel="TLC">
+    <title lang="pt">Muquiranas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524230000 -0300" stop="20200524234900 -0300" channel="TLC">
+    <title lang="pt">De Repente, Rico</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524234900 -0300" stop="20200525001400 -0300" channel="TLC">
+    <title lang="pt">A Médium</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525001400 -0300" stop="20200525010200 -0300" channel="TLC">
+    <title lang="pt">Ai, Ai, Ai do Sexo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525010200 -0300" stop="20200525015000 -0300" channel="TLC">
+    <title lang="pt">Cirurgiões Ao Resgate</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525015000 -0300" stop="20200525023800 -0300" channel="TLC">
+    <title lang="pt">Cirurgiões Ao Resgate</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525023800 -0300" stop="20200525032700 -0300" channel="TLC">
+    <title lang="pt">Cirurgiões ao Resgate: Celebridades</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525032700 -0300" stop="20200525041600 -0300" channel="TLC">
+    <title lang="pt">Cirurgiões ao Resgate: Celebridades</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525041600 -0300" stop="20200525050500 -0300" channel="TLC">
+    <title lang="pt">Cirurgiões ao Resgate: Celebridades</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525050500 -0300" stop="20200525055400 -0300" channel="TLC">
+    <title lang="pt">Cirurgiões ao Resgate: Celebridades</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525055400 -0300" stop="20200525064200 -0300" channel="TLC">
+    <title lang="pt">Ai, Ai, Ai do Sexo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525064200 -0300" stop="20200525081800 -0300" channel="TLC">
+    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525081800 -0300" stop="20200525090600 -0300" channel="TLC">
+    <title lang="pt">A Vida de Jazz</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525090600 -0300" stop="20200525095400 -0300" channel="TLC">
+    <title lang="pt">A Vida de Jazz</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525095400 -0300" stop="20200525104200 -0300" channel="TLC">
+    <title lang="pt">A Vida de Jazz</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525104200 -0300" stop="20200525113000 -0300" channel="TLC">
+    <title lang="pt">A Vida de Jazz</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525113000 -0300" stop="20200525121800 -0300" channel="TLC">
+    <title lang="pt">A Médium</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525121800 -0300" stop="20200525130600 -0300" channel="TLC">
+    <title lang="pt">A Médium</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525130600 -0300" stop="20200525135500 -0300" channel="TLC">
+    <title lang="pt">Ai, Ai, Ai do Sexo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525135500 -0300" stop="20200525144400 -0300" channel="TLC">
+    <title lang="pt">Ai, Ai, Ai do Sexo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525144400 -0300" stop="20200525153300 -0300" channel="TLC">
+    <title lang="pt">Ai, Ai, Ai do Sexo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525153300 -0300" stop="20200525162200 -0300" channel="TLC">
+    <title lang="pt">Ai, Ai, Ai do Sexo</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525162200 -0300" stop="20200525180000 -0300" channel="TLC">
+    <title lang="pt">90 Dias Para Casar: Felizes Para Sempre?</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525180000 -0300" stop="20200525182500 -0300" channel="TLC">
+    <title lang="pt">200 Graus</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525182500 -0300" stop="20200525185000 -0300" channel="TLC">
+    <title lang="pt">Rua Pra Toda Gula</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525185000 -0300" stop="20200525203000 -0300" channel="TLC">
+    <title lang="pt">Quilos Mortais</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525203000 -0300" stop="20200525212000 -0300" channel="TLC">
+    <title lang="pt">A Vida de Jazz</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525212000 -0300" stop="20200525221000 -0300" channel="TLC">
+    <title lang="pt">A Vida de Jazz</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525221000 -0300" stop="20200525230000 -0300" channel="TLC">
+    <title lang="pt">A Médium</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525230000 -0300" stop="20200525234900 -0300" channel="TLC">
+    <title lang="pt">A Médium</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525234900 -0300" stop="20200526001400 -0300" channel="TLC">
+    <title lang="pt">A Médium</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524000000 -0300" stop="20200524030000 -0300" channel="E!">
+    <title lang="pt">Joias VIP</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524030000 -0300" stop="20200524034500 -0300" channel="E!">
+    <title lang="pt">Below Deck</title>
+    <sub-title lang="pt">Vida a Bordo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524034500 -0300" stop="20200524043000 -0300" channel="E!">
+    <title lang="pt">Below Deck</title>
+    <sub-title lang="pt">Vida a Bordo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524043000 -0300" stop="20200524051500 -0300" channel="E!">
+    <title lang="pt">Below Deck</title>
+    <sub-title lang="pt">Vida a Bordo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524051500 -0300" stop="20200524060000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524060000 -0300" stop="20200524064500 -0300" channel="E!">
+    <title lang="pt">Kiss Bang Love</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524064500 -0300" stop="20200524073000 -0300" channel="E!">
+    <title lang="pt">Kiss Bang Love</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524073000 -0300" stop="20200524081500 -0300" channel="E!">
+    <title lang="pt">Kiss Bang Love</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524081500 -0300" stop="20200524090000 -0300" channel="E!">
+    <title lang="pt">Below Deck</title>
+    <sub-title lang="pt">Vida a Bordo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524090000 -0300" stop="20200524094500 -0300" channel="E!">
+    <title lang="pt">Below Deck</title>
+    <sub-title lang="pt">Vida a Bordo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524094500 -0300" stop="20200524103000 -0300" channel="E!">
+    <title lang="pt">Below Deck</title>
+    <sub-title lang="pt">Vida a Bordo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524103000 -0300" stop="20200524111500 -0300" channel="E!">
+    <title lang="pt">The Funny Dance Show</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524111500 -0300" stop="20200524120000 -0300" channel="E!">
+    <title lang="pt">The Funny Dance Show</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524120000 -0300" stop="20200524125000 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524125000 -0300" stop="20200524134000 -0300" channel="E!">
+    <title lang="pt">Very Cavallari</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524134000 -0300" stop="20200524143000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524143000 -0300" stop="20200524152000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524152000 -0300" stop="20200524154500 -0300" channel="E!">
+    <title lang="pt">The Soup</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524154500 -0300" stop="20200524161000 -0300" channel="E!">
+    <title lang="pt">The Soup</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524161000 -0300" stop="20200524170000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524170000 -0300" stop="20200524175000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524175000 -0300" stop="20200524184000 -0300" channel="E!">
+    <title lang="pt">Juju Boot Camp</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524184000 -0300" stop="20200524194000 -0300" channel="E!">
+    <title lang="pt">Juju Boot Camp</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524194000 -0300" stop="20200524211000 -0300" channel="E!">
+    <title lang="pt">Popstar: Sem Parar, Sem Limites</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524211000 -0300" stop="20200524224500 -0300" channel="E!">
+    <title lang="pt">Vizinhos 2</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524224500 -0300" stop="20200524231000 -0300" channel="E!">
+    <title lang="pt">Um Show de Noiva</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524231000 -0300" stop="20200524233500 -0300" channel="E!">
+    <title lang="pt">Um Show de Noiva</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524233500 -0300" stop="20200525000000 -0300" channel="E!">
+    <title lang="pt">Um Show de Noiva</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525000000 -0300" stop="20200525030000 -0300" channel="E!">
+    <title lang="pt">Joias VIP</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525030000 -0300" stop="20200525034500 -0300" channel="E!">
+    <title lang="pt">The Funny Dance Show</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525034500 -0300" stop="20200525043000 -0300" channel="E!">
+    <title lang="pt">The Funny Dance Show</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525043000 -0300" stop="20200525051500 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525051500 -0300" stop="20200525060000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525060000 -0300" stop="20200525064500 -0300" channel="E!">
+    <title lang="pt">Made in Chelsea</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525064500 -0300" stop="20200525073000 -0300" channel="E!">
+    <title lang="pt">Made in Chelsea</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525073000 -0300" stop="20200525081500 -0300" channel="E!">
+    <title lang="pt">Below Deck</title>
+    <sub-title lang="pt">Vida a Bordo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525081500 -0300" stop="20200525090000 -0300" channel="E!">
+    <title lang="pt">Below Deck</title>
+    <sub-title lang="pt">Vida a Bordo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525090000 -0300" stop="20200525094500 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525094500 -0300" stop="20200525103000 -0300" channel="E!">
+    <title lang="pt">Hollywood Medium with Tyler Henry</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525103000 -0300" stop="20200525111500 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525111500 -0300" stop="20200525120000 -0300" channel="E!">
+    <title lang="pt">Kiss Bang Love</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525120000 -0300" stop="20200525125000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525125000 -0300" stop="20200525134000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525134000 -0300" stop="20200525143000 -0300" channel="E!">
+    <title lang="pt">Below Deck</title>
+    <sub-title lang="pt">Vida a Bordo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525143000 -0300" stop="20200525152000 -0300" channel="E!">
+    <title lang="pt">Below Deck</title>
+    <sub-title lang="pt">Vida a Bordo</sub-title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525152000 -0300" stop="20200525161000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525161000 -0300" stop="20200525170000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525170000 -0300" stop="20200525175000 -0300" channel="E!">
+    <title lang="pt">Made in Chelsea</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525175000 -0300" stop="20200525183500 -0300" channel="E!">
+    <title lang="pt">Made in Chelsea</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525183500 -0300" stop="20200525183700 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525183700 -0300" stop="20200525192700 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525192700 -0300" stop="20200525193000 -0300" channel="E!">
+    <title lang="pt">Pop!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525193000 -0300" stop="20200525202000 -0300" channel="E!">
+    <title lang="pt">Keeping up With the Kardashians</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525202000 -0300" stop="20200525211000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525211000 -0300" stop="20200525220000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525220000 -0300" stop="20200525225000 -0300" channel="E!">
+    <title lang="pt">Botched</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525225000 -0300" stop="20200525233500 -0300" channel="E!">
+    <title lang="pt">The Funny Dance Show</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525233500 -0300" stop="20200526000000 -0300" channel="E!">
+    <title lang="pt">Um Show de Noiva</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524000000 -0300" stop="20200524004500 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524004500 -0300" stop="20200524013000 -0300" channel="FOX LIFE">
+    <title lang="pt">The Resident</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524013000 -0300" stop="20200524021300 -0300" channel="FOX LIFE">
+    <title lang="pt">The Resident</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524021300 -0300" stop="20200524025900 -0300" channel="FOX LIFE">
+    <title lang="pt">The Resident</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524025900 -0300" stop="20200524034400 -0300" channel="FOX LIFE">
+    <title lang="pt">The Resident</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524034400 -0300" stop="20200524042700 -0300" channel="FOX LIFE">
+    <title lang="pt">The Resident</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524042700 -0300" stop="20200524051100 -0300" channel="FOX LIFE">
+    <title lang="pt">Private Eyes</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524051100 -0300" stop="20200524055500 -0300" channel="FOX LIFE">
+    <title lang="pt">Private Eyes</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524055500 -0300" stop="20200524063800 -0300" channel="FOX LIFE">
+    <title lang="pt">Private Eyes</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524063800 -0300" stop="20200524070000 -0300" channel="FOX LIFE">
+    <title lang="pt">Life in Pieces</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524070000 -0300" stop="20200524080000 -0300" channel="FOX LIFE">
+    <title lang="pt">Infomercial</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524080000 -0300" stop="20200524083000 -0300" channel="FOX LIFE">
+    <title lang="pt">Infomercial</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524083000 -0300" stop="20200524090000 -0300" channel="FOX LIFE">
+    <title lang="pt">Infomercial</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524090000 -0300" stop="20200524100000 -0300" channel="FOX LIFE">
+    <title lang="pt">Infomercial</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524100000 -0300" stop="20200524102100 -0300" channel="FOX LIFE">
+    <title lang="pt">Life in Pieces</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524102100 -0300" stop="20200524110400 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524110400 -0300" stop="20200524115000 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524115000 -0300" stop="20200524123300 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524123300 -0300" stop="20200524131800 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524131800 -0300" stop="20200524140200 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524140200 -0300" stop="20200524144900 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524144900 -0300" stop="20200524153400 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524153400 -0300" stop="20200524161700 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524161700 -0300" stop="20200524170000 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524170000 -0300" stop="20200524174400 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524174400 -0300" stop="20200524194600 -0300" channel="FOX LIFE">
+    <title lang="pt">A Culpa é das Estrelas</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524194600 -0300" stop="20200524213600 -0300" channel="FOX LIFE">
+    <title lang="pt">Tô Ryca!</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524213600 -0300" stop="20200524234000 -0300" channel="FOX LIFE">
+    <title lang="pt">Os Dez Mandamentos \u2013 O Filme</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200524234000 -0300" stop="20200525002600 -0300" channel="FOX LIFE">
+    <title lang="pt">9-1-1</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525002600 -0300" stop="20200525011100 -0300" channel="FOX LIFE">
+    <title lang="pt">The Resident</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525011100 -0300" stop="20200525015500 -0300" channel="FOX LIFE">
+    <title lang="pt">New Amsterdam</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525015500 -0300" stop="20200525024000 -0300" channel="FOX LIFE">
+    <title lang="pt">New Amsterdam</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525024000 -0300" stop="20200525032400 -0300" channel="FOX LIFE">
+    <title lang="pt">New Amsterdam</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525032400 -0300" stop="20200525040800 -0300" channel="FOX LIFE">
+    <title lang="pt">New Amsterdam</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525040800 -0300" stop="20200525045100 -0300" channel="FOX LIFE">
+    <title lang="pt">New Amsterdam</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525045100 -0300" stop="20200525053300 -0300" channel="FOX LIFE">
+    <title lang="pt">New Amsterdam</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525053300 -0300" stop="20200525061700 -0300" channel="FOX LIFE">
+    <title lang="pt">Private Eyes</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525061700 -0300" stop="20200525070000 -0300" channel="FOX LIFE">
+    <title lang="pt">S.W.A.T.</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525070000 -0300" stop="20200525080000 -0300" channel="FOX LIFE">
+    <title lang="pt">Infomercial</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525080000 -0300" stop="20200525083000 -0300" channel="FOX LIFE">
+    <title lang="pt">Infomercial</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525083000 -0300" stop="20200525090000 -0300" channel="FOX LIFE">
+    <title lang="pt">Infomercial</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525090000 -0300" stop="20200525100000 -0300" channel="FOX LIFE">
+    <title lang="pt">Infomercial</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525100000 -0300" stop="20200525102300 -0300" channel="FOX LIFE">
+    <title lang="pt">Life in Pieces</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525102300 -0300" stop="20200525104500 -0300" channel="FOX LIFE">
+    <title lang="pt">Life in Pieces</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525104500 -0300" stop="20200525110600 -0300" channel="FOX LIFE">
+    <title lang="pt">Life in Pieces</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525110600 -0300" stop="20200525115200 -0300" channel="FOX LIFE">
+    <title lang="pt">Private Eyes</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525115200 -0300" stop="20200525123700 -0300" channel="FOX LIFE">
+    <title lang="pt">Private Eyes</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525123700 -0300" stop="20200525132300 -0300" channel="FOX LIFE">
+    <title lang="pt">Bones</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525132300 -0300" stop="20200525140800 -0300" channel="FOX LIFE">
+    <title lang="pt">The Resident</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525140800 -0300" stop="20200525145300 -0300" channel="FOX LIFE">
+    <title lang="pt">New Amsterdam</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525145300 -0300" stop="20200525153800 -0300" channel="FOX LIFE">
+    <title lang="pt">Proven Innocent</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525153800 -0300" stop="20200525162300 -0300" channel="FOX LIFE">
+    <title lang="pt">S.W.A.T.</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525162300 -0300" stop="20200525164800 -0300" channel="FOX LIFE">
+    <title lang="pt">Modern Family</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525164800 -0300" stop="20200525181500 -0300" channel="FOX LIFE">
+    <title lang="pt">O Paizão</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525181500 -0300" stop="20200525190000 -0300" channel="FOX LIFE">
+    <title lang="pt">S.W.A.T.</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525190000 -0300" stop="20200525194500 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525194500 -0300" stop="20200525203000 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525203000 -0300" stop="20200525211700 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525211700 -0300" stop="20200525220200 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order SVU</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525220200 -0300" stop="20200525225200 -0300" channel="FOX LIFE">
+    <title lang="pt">Law &amp; Order: Criminal Intent</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20200525225200 -0300" stop="20200526005500 -0300" channel="FOX LIFE">
+    <title lang="pt">Infidelidade</title>
+    <star-rating system="BR">
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>
